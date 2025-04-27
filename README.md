@@ -2,7 +2,8 @@
 
 Welcome to **Nostra**, your go-to online destination for the latest fashion trends. Nostra offers a seamless shopping experience with a modern design, product search functionality, and a responsive interface, all powered by clean and efficient code.
 
-VIEW SITE:
+VIEW SITE:https://sandhiya2418.github.io/nostra-clone/
+
 ---
 
 ## Features ✨
